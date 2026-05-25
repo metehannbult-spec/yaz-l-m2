@@ -1,5 +1,9 @@
-Bugün Python programlama dilinde bir konuda çok zorlandım.
-Python'da dosya açma, kapatma ve içeriklerini okuma hangi terimlerin handi işe yaradıpını öğrendim.
-Dosyalar yazdığımız kodların düzenli , güvende kalmasını sağlar ve daha rahat ulaşa bilmemize yardımcı olur.
-Dosyalara çok vakit ayırdım ama hala çok iyi değilim .
-Burayı atlatıktan sonra rahatlayacağımı ve daha seri gideceğime inanıyorum.
+Bugün Python programlama dilinde dosyalar konusu üzerinde zorlandım. 
+
+Python’da dosya açma, kapatma ve içerik okuma işlemlerinin ne işe yaradığını öğrendim. 
+
+Dosyalar, yazdığımız kodların daha düzenli olmasını sağlar ve verilere daha kolay ulaşmamıza yardımcı olur. 
+
+Bu konuya çok vakit ayırdım ama hala tam olarak iyi seviyede değilim. 
+
+Zamanla pratik yaparak daha iyi olacağımı düşünüyorum.
